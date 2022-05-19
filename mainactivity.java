@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+//this is new comment
 public class MainActivity extends AppCompatActivity {
 
     Button buttonx ,buttonlg,buttonln,buttonbr,buttonbr2,buttonsqrt,buttonac,buttonc,buttonper,buttondiv,buttonfact,button7,
